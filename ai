@@ -612,7 +612,7 @@
 </div>
 
 <!-- 카카오맵 SDK: appkey 부분에 본인 JavaScript 키를 넣으세요 -->
-<script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=여기에_JavaScript키_입력&libraries=services&autoload=false"></script>
+<script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=a34eb9367071387b6aa77aee11c5fb04&libraries=services&autoload=false"></script>
 
 <script>
   var map, marker, geocoder, ps;
